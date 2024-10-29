@@ -9,7 +9,7 @@
 ### 1. 유동인구 카운트 YOLO 영상 파일럿 프로젝트
 - **프로젝트 설명**: YOLO 모델을 사용하여 영상 속 유동인구를 실시간으로 감지하고, 입장 및 퇴장 수를 카운트하는 시스템.
 - **주요 기능**: 사람 객체 탐지, 입장 및 퇴장 카운팅, 누적 인원 계산.
-- **관련 링크**:
+- **관련 주피터 노트북**:
   - [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/15apepKIwuylDuCtrrJcQZZBSjjXdzBzB?usp=sharing)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:  
@@ -17,6 +17,17 @@
 
 ---
 
+### 2. 엑스레이 사진에서 폐결절을 찾는 신경망 
+- **프로젝트 설명**: 이 프로젝트는 x-ray 사진을 분석하여~
+- **주요 기능**: 폐결절 자동 탐지
+- **관련 주피터 노트북**:
+  - [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/16JV6lcxYfzGksvKeNP2vsqb1CJFjIdEY?usp=sharing)
+  - [알림 시스템 API 문서](https://your-api-link.com/)
+- **시연 영상**:  
+  ![폐결절 찾는 시연 영상](https://user-images.githubusercontent.com/yourusername/your-video-file2.mp4)
+
+  ---
+  
 ### 2. 도둑감지 YOLO 신경망 활용 파일럿 프로젝트
 - **프로젝트 설명**: 무인 감시 시스템을 위한 도둑 감지 기능. YOLO 모델을 통해 특정 위치에서의 불법 침입자를 실시간으로 탐지.
 - **주요 기능**: 실시간 침입자 감지, 위험 알림, 비상 조치 기능.
