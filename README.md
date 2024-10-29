@@ -10,7 +10,7 @@
 - **프로젝트 설명**: YOLO 모델을 사용하여 영상 속 유동인구를 실시간으로 감지하고, 입장 및 퇴장 수를 카운트하는 시스템.
 - **주요 기능**: 사람 객체 탐지, 입장 및 퇴장 카운팅, 누적 인원 계산.
 - **관련 링크**:
-  - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
+  - [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/15apepKIwuylDuCtrrJcQZZBSjjXdzBzB?usp=sharing)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:  
 [![유동인구 카운트 영상](https://github.com/oesnoeyh/test/blob/main/image%20(6).png)](https://github.com/oesnoeyh/test/blob/main/videoplayback_exported_output.mp4)
