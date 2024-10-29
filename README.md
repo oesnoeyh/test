@@ -12,7 +12,7 @@
 - **관련 주피터 노트북**:
   - [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/15apepKIwuylDuCtrrJcQZZBSjjXdzBzB?usp=sharing)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
-- **시연 영상**:  
+- **시연 이미지**:  
 [![유동인구 카운트 영상](https://github.com/oesnoeyh/test/blob/main/image%20(6).png)](https://github.com/oesnoeyh/test/blob/main/videoplayback_exported_output.mp4)
 
 ---
@@ -23,7 +23,7 @@
 - **관련 주피터 노트북**:
   - [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/16JV6lcxYfzGksvKeNP2vsqb1CJFjIdEY?usp=sharing)
   - [알림 시스템 API 문서](https://your-api-link.com/)
-- **시연 영상**:  
+- **시연 이미지**:  
   ![폐결절 찾는 시연 영상](https://github.com/oesnoeyh/test/blob/main/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
 
   ---
