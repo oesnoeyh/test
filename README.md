@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/75a022a8-5a14-4d29-9bf6-35fdd7e0f4c4)# 포트폴리오 프로젝트 모음
+# 포트폴리오 프로젝트 모음
 
 이 저장소에는 다양한 YOLO 신경망 활용 파일럿 프로젝트가 포함되어 있습니다. 각 프로젝트는 실시간 객체 탐지, 추적, 분석 등을 목표로 합니다.
 
@@ -13,7 +13,7 @@
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:  
-  ![유동인구 카운트 영상](https://github.com/oesnoeyh/test/blob/main/image%20(6).png)
+[![유동인구 카운트 영상](https://github.com/oracleyu01/pilot/blob/main/sjk.jpg)](https://github.com/oracleyu01/pilot/blob/main/sjk_with_counts_vrew_exported.mp4)
 
 ---
 
